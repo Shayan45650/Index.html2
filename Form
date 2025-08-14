@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Addmision Form </title>
+<style>
+   body{background-color:grey;} button{border-radius: 60px 30px;cursor: pointer; } 
+</style>
+</head>
+<body>
+<h1>School Addmision Form🔬🔭</h1><b>
+<p>Please fill your information in the below boxes</p><br>
+<label>Name Of Student:</label><br>
+<input type="text"><br>
+<label>Fathers Name:</label><br>
+<input type="text"><br>
+<label>Roll Number:</label><br>
+<input type="number"><br>
+<label>GENDER:</label><br>
+<label>Male:</label><br>
+<input type="checkbox"><br>
+<label>Female:</label><br>
+<input type="checkbox"><br>
+<label>B-Form Number:</label><br>
+<input type="number"><br>
+<label>Email:</label><br>
+<input type="email"><br>
+<label>Password:</label><br>
+<input type="number"><br>
+<label>Subject</label><br>
+<input type="text"><br>
+<label>Blood Group:</label><br>
+<input type="text"><br>
+<label>Hobby:</label><br>
+<input type="TEXT"><br>
+<label>Guirdian Name:</label><br>
+<input type="Text"><br>
+<button>Submit</button><br>
+</body>
+</html>
