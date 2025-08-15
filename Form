@@ -9,7 +9,7 @@
 </style>
 </head>
 <body>
-<h1>School Addmision Form🔬🔭</h1><b>
+<h1>School Addmision Form</h1><b>
 <p>Please fill your information in the below boxes</p><br>
 <label>Name Of Student:</label><br>
 <input type="text"><br>
